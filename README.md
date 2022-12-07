@@ -7,6 +7,6 @@ Projeto desenvolvido em React.js com referências em JavaScript, HTML e estiliza
 
 ![image](https://user-images.githubusercontent.com/101356855/206148820-bf67d3bb-252e-4535-bed7-63787340586d.png)
 
-### Agradecimento
+### Agradecimentos
 Professor Matheus Battisti 
-matheusbattisti
+
