@@ -7,6 +7,10 @@ Projeto desenvolvido em React.js com referências em JavaScript, HTML e estiliza
 
 ![image](https://user-images.githubusercontent.com/101356855/206148820-bf67d3bb-252e-4535-bed7-63787340586d.png)
 
+# Banco de dados das palavras
+![image](https://user-images.githubusercontent.com/101356855/206157526-f5743ede-575f-442e-a0ef-6ec296674566.png)
+
+
 ### Agradecimentos
 Professor Matheus Battisti 
 
