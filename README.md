@@ -1,6 +1,12 @@
 # Secret-Word-Game
 Projeto desenvolvido em React.js com referências em JavaScript, HTML e estilização em CSS
 
+## Demo
+
+https://user-images.githubusercontent.com/101356855/206180258-544c1a2a-9c39-41dd-bfb3-07e57750530f.mp4
+
+## Imagens do jogo
+
 ![image](https://user-images.githubusercontent.com/101356855/206148960-7f775a96-80b8-4f20-9d61-180e9ae3c231.png)
 
 ![image](https://user-images.githubusercontent.com/101356855/206148438-f15ff9ad-53b0-4dda-aaa6-b8e03eeb3d21.png)
