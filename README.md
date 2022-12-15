@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/101356855/206180258-544c1a2a-9c39-41dd
 ## Regras
 - 5 tentativas para acertar a palavra secreta;
 - A cada letra errada subtrai uma chance;
-- Atente-se às palavras que possuem acentos;)
+- Atente-se às palavras que possuam acentos ;)
 - Se ao acertar a palavra, mas errou três letras, na próxima palavra terá apenas duas chances, se acertar continua o jogo, se errar encerra.
 
 ## Imagens do jogo
