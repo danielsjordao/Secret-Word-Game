@@ -19,6 +19,9 @@ https://user-images.githubusercontent.com/101356855/206180258-544c1a2a-9c39-41dd
 ![image](https://user-images.githubusercontent.com/101356855/206148820-bf67d3bb-252e-4535-bed7-63787340586d.png)
 
 # Banco de dados das palavras
+
+Trata-se de um banco de dados interno, onde o desenvolvedor poderá inserir quantos "id's" pretender e dentro inúmeras palavras.
+
 ![image](https://user-images.githubusercontent.com/101356855/206157526-f5743ede-575f-442e-a0ef-6ec296674566.png)
 
 
