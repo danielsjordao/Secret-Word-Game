@@ -10,6 +10,7 @@ https://user-images.githubusercontent.com/101356855/206180258-544c1a2a-9c39-41dd
 - A cada letra errada subtrai uma chance;
 - Atente-se às palavras que possuam acentos ;);
 - Se ao acertar a palavra, mas errou três letras, na próxima palavra terá apenas duas chances, se acertar continua o jogo, se errar encerra.
+- Aproveite o jogo em qualquer lugar e a qualquer hora ;)
 
 ## Imagens do jogo
 
