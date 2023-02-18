@@ -5,7 +5,7 @@ Projeto desenvolvido com a biblioteca React com referências em JavaScript, HTML
 
 https://user-images.githubusercontent.com/101356855/206180258-544c1a2a-9c39-41dd-bfb3-07e57750530f.mp4
 
-## Regras
+## Regras do jogo
 - 5 tentativas para acertar a palavra secreta;
 - A cada letra errada subtrai uma chance;
 - Atente-se às palavras que possuam acentos ;);
